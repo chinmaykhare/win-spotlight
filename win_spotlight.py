@@ -1,3 +1,4 @@
+#code to fetch windows 10 spotlight wallpapers
 import os
 import sys
 import shutil
