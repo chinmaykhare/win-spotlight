@@ -1,4 +1,7 @@
 #code to fetch windows 10 spotlight wallpapers
+
+__author__= 'Chinmay Khare'
+
 import os
 import sys
 import shutil
@@ -61,4 +64,4 @@ if __name__ == "__main__":
         createDir()
         fetchWallpapers()
     else:
-        print('Please correct the Micosoft Content Delivery directory')
+        print('Please correct the Micosoft Spotlight directory')
