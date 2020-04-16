@@ -1,6 +1,7 @@
 #code to fetch windows 10 spotlight wallpapers
 
 __author__= 'Chinmay Khare'
+__version__='2'
 
 import os
 import sys
